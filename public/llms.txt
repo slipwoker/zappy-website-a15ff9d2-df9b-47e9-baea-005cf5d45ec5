@@ -1,0 +1,80 @@
+# אורח חיים בריא שיטת 4 עקרונות — Generative Engine Optimization Map
+
+> A personal health and weight loss coaching brand targeting women, built around a simple '4 Principles' method: drinking enough water, eating balanced meals, incorporating daily movement, and replacing one meal with a Complete shake. The brand emphasizes personal accompaniment — the coach positions herself not just as a product seller but as a supportive guide who walks alongside each client. The tone is warm, empowering, and community-driven, with a WhatsApp support group, daily tips, healthy recipes, and a free weight-loss challenge. The brand promise is sustainability and long-term lifestyle change, not just a quick fix.
+
+---
+
+## Pages
+
+### דף הבית
+https://4-a15ff9d2.zappy5.app
+גלי את שיטת 4 העקרונות לשינוי אורח חיים: מים, תזונה מאוזנת, תנועה ושייק משלים. ליווי אישי, מתכונים וקבוצת תמיכה מחכים לך. הצטרפי עכשיו למסע הבריאותי שלך!
+
+### תודה שפנית אלינו
+https://4-a15ff9d2.zappy5.app/thank-you
+אורח חיים בריא שיטת 4 עקרונות - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://4-a15ff9d2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://4-a15ff9d2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://4-a15ff9d2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://4-a15ff9d2.zappy5.app
+- Endpoint: https://4-a15ff9d2.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אורח חיים בריא שיטת 4 עקרונות
+A personal health and weight loss coaching brand targeting women, built around a simple '4 Principles' method: drinking enough water, eating balanced meals, incorporating daily movement, and replacing one meal with a Complete shake. The brand emphasizes personal accompaniment — the coach positions herself not just as a product seller but as a supportive guide who walks alongside each client. The tone is warm, empowering, and community-driven, with a WhatsApp support group, daily tips, healthy recipes, and a free weight-loss challenge. The brand promise is sustainability and long-term lifestyle change, not just a quick fix.
+
+## Services/Products
+- שיטת 4 עקרונות לירידה במשקל
+- מכירת שייק קומפליט
+- ליווי אישי לאורח חיים בריא
+- שיחת ייעוץ אישית חינמית
+- קבוצת וואטסאפ תומכת
+- טיפים יומיומיים ומתכונים בריאים
+- אתגר חינמי ירידה במשקל ללא סוכר
+
+## Target Audience
+- נשים המעוניינות לרדת במשקל ולאמץ אורח חיים בריא
+- נשים המעוניינות לרדת במשקל
+- אמהות מודעות לבריאות
+- נשים אחרי לידה
+
+## Industry
+Health & Wellness
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://4-a15ff9d2.zappy5.app/sitemap.xml
+- Robots: https://4-a15ff9d2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://4-a15ff9d2.zappy5.app/llms-full.txt
